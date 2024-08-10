@@ -23,7 +23,6 @@ class CursoDao:
         exec.execute(query)
         self.conexion.commit()
         exec.close()
-        
     
     def insertarCursos(self, curso):
         exec = self.conexion.cursor()
