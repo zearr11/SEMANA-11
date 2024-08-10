@@ -262,7 +262,7 @@ background-color: qlineargradient(spread:pad, x1:0, y1:1, x2:0, y2:0, stop:0 rgb
       <string notr="true">COLOR: BLACK</string>
      </property>
      <property name="text">
-      <string>ELIMINAR</string>
+      <string>NUEVO</string>
      </property>
     </widget>
     <widget class="QComboBox" name="cb_proce">
